@@ -1,5 +1,5 @@
 body{
-    background:#f3f3f3;
+    background:#f8bbbb;
     color:#333;
     width:100%;
     font-family:sans-serif;
@@ -11,8 +11,8 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#417aa8;
-    color:#fff;
+    background:#40729b;
+    color:#FFF;
 }
 
 .content{
@@ -67,7 +67,7 @@ body{
 }
 
 .menu{
-    background-color":#418aa8;
+    background-color:#40729b;
     height:50px;
     line-height:50px;
     position:relative;
